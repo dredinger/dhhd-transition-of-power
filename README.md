@@ -165,7 +165,7 @@ The bot lives on an AWS EC2 server located in US West (N. California) region. In
 5. Clone repository from GitHub to `dhwebexbot` folder:
 
   ```
-  $ git clone https://{username}:github.com/{username}/dhhd-webex-bot dhwebexbot
+  $ git clone https://{username}@github.com/{username}/dhhd-webex-bot dhwebexbot
   ```
 
 </details>
