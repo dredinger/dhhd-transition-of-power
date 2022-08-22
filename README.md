@@ -85,6 +85,7 @@ All Denver Health-related project source files (including random nonsense :smile
   - FindUser.bat/.ps1
   - GetComputerInfo.bat/.ps1
   - CompareGroups.bat/.ps1
+    - This will compare 2 people (based on username) and show with left and right symbols who has the group that the other user is missing (<- or ->).
 - [`Python Scripts`](H:\Projects\Python), notably:
   - [Webex Bot](H:\Projects\Python\DHHD-Webex-Bot)
 - [`Random Batch Scripts`](H:\Projects\Batch), notably:
